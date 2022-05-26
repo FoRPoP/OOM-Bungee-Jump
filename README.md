@@ -3,6 +3,9 @@
 Svi kodovi za seminarski rad iz OOM-a, Bungee Jump.
 Kodovi su pisani za MATLAB.
 
+Pokrecu se fajlovi seminarski.m i semDif.m
+Ostali fajlovi su pomocni i ova dva fajla ih koriste.
+
 Fajlovi:
 
 1. seminarski.m koristi fajlove movementFunc.m i massDepthFunction.m
