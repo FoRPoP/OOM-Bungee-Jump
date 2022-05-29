@@ -4,7 +4,7 @@ l0 = 30;
 l = 30;
 t0 = 0;
 
-tmax = 50;
+tmax = 100;
 ts = linspace(0, tmax, 1000);
 figure(1)
 plot(ts, -movementFunc(ts));
